@@ -1,9 +1,9 @@
-library(dplyr)
-library(tibble)
 library(DT)
+library(dplyr)
+library(shiny)
+library(tibble)
 library(echarts4r)
 library(echarts4r.maps)
-library(shiny)
 library(shinydashboard)
 library(shinycssloaders)
 

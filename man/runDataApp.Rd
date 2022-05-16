@@ -20,11 +20,6 @@ library(usarrestApp)
 
 # running an app
   runDataApp()
-
-# to get list of names of shiny apps
-  runDataApp()
-# this will give error with all possible
-# shiny names contained in the package.
 }
 
 }
